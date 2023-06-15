@@ -1,3 +1,8 @@
-Capitulo 1
-Capitulo2
-Capitulo 3
+-----------En otra RAMA-----------
+Version 0.3
+Experimento de reset completado.........
+HEAT SHIMMER	
+Historia mamalona
+ando aprendiendo 
+init y mas tirandooo
+agrega linea
