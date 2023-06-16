@@ -2,7 +2,7 @@
 void func();
 using namespace std;
 int main(){
-    cout <<"programa mamalon"<<endl;
+    func();
     return 0;
 }
 
