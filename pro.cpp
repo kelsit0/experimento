@@ -2,7 +2,7 @@
 void metodo();
 using namespace std;
 int main(){
-    cout <<"programa mamalon"<<endl;
+    metodo();
     return 0;
 }
 
