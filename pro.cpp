@@ -1,6 +1,7 @@
 #include<iostream>
 void metodo();
-void funcionMamalona();
+
+void metodoDefinitivo();
 
 using namespace std;
 int main(){
@@ -11,6 +12,7 @@ int main(){
 void metodo(){
     cout<<"oa cabrones"<<endl;
 }
-void funcionMamalona(){
+
+void metodoDefinitivo(){
     cout<<"chupapi"<<endl;
 }
