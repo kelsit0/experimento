@@ -2,7 +2,7 @@
 void metodo();
 using namespace std;
 int main(){
-    metodo();
+    metodo();    ///se llama al metodo
     return 0;
 }
 
