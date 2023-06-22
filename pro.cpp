@@ -1,8 +1,9 @@
 #include<iostream>
 void metodo();
 
-void metodoDefinitivo();
-
+int resta(int,int);
+int multp(int, int);
+int div(int,int);
 using namespace std;
 int main(){
     cout<<"Hello world"<<endl;
@@ -14,6 +15,14 @@ void metodo(){
     cout<<"oa cabrones"<<endl;
 }
 
-void metodoDefinitivo(){
-    cout<<"chupapi"<<endl;
+int resta(int a, int b){
+    return a-b;
+}
+
+int multp(int a, int b){
+    return a*b;
+}
+
+int div(int a,int b){
+    return a/b;
 }
