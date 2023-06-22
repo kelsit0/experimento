@@ -1,7 +1,10 @@
 #include<iostream>
 
+
 int suma(int,int);
-void metodoDefinitivo();
+int resta(int,int);
+int multp(int, int);
+int division(int,int);
 
 using namespace std;
 int main(){
@@ -39,6 +42,14 @@ int suma(int a, int b){
     return a+b;
 }
 
-void metodoDefinitivo(){
-    cout<<"chupapi"<<endl;
+int resta(int a, int b){
+    return a-b;
+}
+
+int multp(int a, int b){
+    return a*b;
+}
+
+int division(int a,int b){
+    return a/b;
 }
