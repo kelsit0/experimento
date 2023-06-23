@@ -1,5 +1,7 @@
 #include<iostream>
 
+
+///Calculadora Equis :)
 auto suma=[](int a, int b){return a+b;};
 auto resta=[](int a, int b){return a-b;};
 auto multp=[](int a, int b){return a*b;};
