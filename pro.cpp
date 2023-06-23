@@ -39,7 +39,6 @@ int main(){
     }while(opt!='s');
     return 0;
 }
-
 void getDatos(int&a,int&b){
     cout<<"Ingresa el 1er num"<<endl;
     cin>>a;
