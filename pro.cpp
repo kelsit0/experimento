@@ -11,10 +11,10 @@ int main(){
     char opt;
     int a=0,b=0;
     do{
-        cout<<"1)Suma"<<endl;
-        cout<<"2)Resta"<<endl;
-        cout<<"3)Multp"<<endl;
-        cout<<"4)Div"<<endl;
+        cout<<"a)Suma"<<endl;
+        cout<<"b)Resta"<<endl;
+        cout<<"c)Multp"<<endl;
+        cout<<"d)Div"<<endl;
         cout<<"s)Salir"<<endl;
         cout<<endl;
         cin>>opt;
