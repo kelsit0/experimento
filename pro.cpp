@@ -1,10 +1,10 @@
 #include<iostream>
 
+auto suma=[](int a, int b){return a+b;};
+auto resta=[](int a, int b){return a-b;};
+auto multp=[](int a, int b){return a*b;};
+auto division=[](int a, int b){return a/b;};
 
-int suma(int,int);
-int resta(int,int);
-int multp(int, int);
-int division(int,int);
 void getDatos(int&,int&);
 using namespace std;
 int main(){
@@ -38,22 +38,6 @@ int main(){
         }
     }while(opt!='s');
     return 0;
-}
-
-int suma(int a, int b){
-    return a+b;
-}
-
-int resta(int a, int b){
-    return a-b;
-}
-
-int multp(int a, int b){
-    return a*b;
-}
-
-int division(int a,int b){
-    return a/b;
 }
 void getDatos(int&a,int&b){
     cout<<"Ingresa el 1er num"<<endl;
